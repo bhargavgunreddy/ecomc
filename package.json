@@ -1,0 +1,26 @@
+{
+  "name": "ECOMC",
+  "version": "1.0.0",
+  "description": "E-Commerce",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log(\"Hello world\");",
+    "start": "node app.js"
+  },
+  "author": "Bhargav",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-route": "^1.4.8",
+    "bootstrap": "^3.3.6",
+    "bower": "^1.7.2",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
